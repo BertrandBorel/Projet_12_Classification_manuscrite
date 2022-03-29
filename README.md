@@ -34,7 +34,7 @@ Par la suite, il faut développer une boucle for pour lire les images et les cha
 
 ​
 
-Outils :
+**Outils :**
 
 – Import os
 
